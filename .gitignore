@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.vercel/
+.claude/
+.qa/
+.remember/
+output/
+test-results/
+qa-screenshots/
+
+*.log
+*.err.log
+*.out.log
+
+.DS_Store
+Thumbs.db

@@ -1,0 +1,23 @@
+# Kim's Blinds
+
+> Kim's Blinds supplies blinds, awnings, security doors and screens, fly screens, panel glides, plantation shutters and curtains from Oak Flats NSW.
+
+## Verified business details
+- Phone: 02 4256 1297
+- Email: info@kimsblinds.com.au
+- Address: Unit 5, 147 Industrial Rd, Oak Flats NSW 2529
+- Hours: Monday to Thursday 9am-4.30pm, Friday 9am-3.30pm, Saturday and Sunday closed
+- Offers: free measure and quote, locally made products, family owned and operated, 100% quality assurance
+
+## Indexable content policy
+- Main service pages: 13
+- Main suburb hubs: 18
+- In-depth buying guides: 8
+- Broader suburb and service-suburb combinations exist for users but stay out of the sitemap unless they add genuine local value.
+
+## Primary pages
+- [Home](https://kimsblinds.com.au/)
+- [Products and services](https://kimsblinds.com.au/services)
+- [Main suburb hubs](https://kimsblinds.com.au/suburbs)
+- [Buying guides](https://kimsblinds.com.au/blog)
+- [Contact](https://kimsblinds.com.au/contact)

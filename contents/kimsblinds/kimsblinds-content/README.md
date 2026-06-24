@@ -1,0 +1,90 @@
+# Kim's Blinds Content Capture
+
+Source: https://kimsblinds.com.au/
+Captured: 2026-06-23T13:46:07.273Z
+
+- Pages captured: 80
+- Images captured: 163
+
+## Pages
+
+- [Blinds, Shutters & Awnings Wollongong | Kim's Blinds](https://kimsblinds.com.au/) - 35 images
+- [About Kim's Blinds | Family Owned | Blinds & Security](https://kimsblinds.com.au/about-us/) - 11 images
+- [Blinds, Shutters & Security Screen Services | Kim's Blinds](https://kimsblinds.com.au/our-services/) - 29 images
+- [Blinds Calderwood | Custom Window Blinds for Homes & Offices](https://kimsblinds.com.au/blind/) - 16 images
+- [Roller Blinds Shell Cove | Custom Made by Kim’s Blinds](https://kimsblinds.com.au/roller-blinds/) - 16 images
+- [Roller Blinds Kiama Made for Every Style | Kim's Blinds](https://kimsblinds.com.au/holland-blinds/) - 15 images
+- [Premium Venetian Blinds for Stylish Window Treatments | Kim's Blinds](https://kimsblinds.com.au/venetian-blinds/) - 15 images
+- [Custom Fit Vertical Blinds Albion Park | Kim's Blinds](https://kimsblinds.com.au/vertical-blinds/) - 15 images
+- [Custom Timber Venetian Blinds Wollongong | Kim's Blinds](https://kimsblinds.com.au/timber-venetian-blinds/) - 15 images
+- [Custom Vision Blinds & Roller Blinds Kiama | Kim's Blinds](https://kimsblinds.com.au/vision-blinds/) - 15 images
+- [Awnings and Roller Blinds Albion Park for Outdoors by Kim's Blinds](https://kimsblinds.com.au/awnings/) - 14 images
+- [Best Aluminium Awnings & Roller Blinds Wollongong | Kim's Blinds](https://kimsblinds.com.au/aluminium-awnings/) - 15 images
+- [Canvas Awnings and Security Doors Shell Cove at Kim's Blinds](https://kimsblinds.com.au/canvas-awnings/) - 15 images
+- [Folding Arm Awnings & Security Doors Calderwood | Kim's Blinds](https://kimsblinds.com.au/folding-arm-awnings/) - 15 images
+- [Retractable Awnings & Security Doors Blinds Kiama | Kim's Blinds](https://kimsblinds.com.au/retractable-awnings/) - 15 images
+- [Fly Screens & Security Doors Albion Park | Kim's Blinds](https://kimsblinds.com.au/fly-screens/) - 15 images
+- [Security Doors Wollongong | Premium Doors & Windows | Kim's Blinds](https://kimsblinds.com.au/security-doors-windows/) - 22 images
+- [Stylish Panel Glide Blinds and Plantation Shutters Shell Cove](https://kimsblinds.com.au/panel-glides/) - 15 images
+- [Plantation Shutters Wollongong & Kiama | Kim's Blinds](https://kimsblinds.com.au/plantation-shutters/) - 20 images
+- [Sheer & Block Out Curtains Shell Cove | Kim's Blinds](https://kimsblinds.com.au/curtains/) - 13 images
+- [Kim's Blinds FAQ | Answers to Your Blind Shell Cove Questions](https://kimsblinds.com.au/faq/) - 11 images
+- [Plantation Shutters Wollongong | Kim's Blinds Gallery](https://kimsblinds.com.au/gallery/) - 61 images
+- [Contact Kim's Blinds | Free Measure & Quote Wollongong](https://kimsblinds.com.au/contact-us/) - 9 images
+- [Areas We Service | Blinds & Shutters Wollongong to Kiama](https://kimsblinds.com.au/areas-we-service/) - 10 images
+- [Retractable Awnings & Security Doors Blinds Kiama | Kim's Blinds](https://kimsblinds.com.au/retractable-awnings//) - 15 images
+- [roller-5-screen-dark-scaled-1.jpg (1500×844)](https://kimsblinds.com.au/wp-content/uploads/2024/04/roller-5-screen-dark-scaled-1.jpg) - 1 images
+- [pic-2.jpg (1888×1049)](https://kimsblinds.com.au/wp-content/uploads/2024/04/pic-2.jpg) - 1 images
+- [bedroom_blackout_roller_blinds_1200x797c0pcenter.webp (1200×797)](https://kimsblinds.com.au/wp-content/uploads/2024/04/bedroom_blackout_roller_blinds_1200x797c0pcenter.webp) - 1 images
+- [roller-blinds-aa.webp (1600×1200)](https://kimsblinds.com.au/wp-content/uploads/2024/04/roller-blinds-aa.webp) - 1 images
+- [image-coming-soon-placeholder.png (1000×1000)](https://kimsblinds.com.au/wp-content/uploads/2025/04/image-coming-soon-placeholder.png) - 1 images
+- [image-coming-soon-placeholder-Copy.png (1000×1000)](https://kimsblinds.com.au/wp-content/uploads/2025/04/image-coming-soon-placeholder-Copy.png) - 1 images
+- [image-coming-soon-placeholder-1.png (1000×1000)](https://kimsblinds.com.au/wp-content/uploads/2025/04/image-coming-soon-placeholder-1.png) - 1 images
+- [Aluminium-Awnings.webp (1024×780)](https://kimsblinds.com.au/wp-content/uploads/2024/04/Aluminium-Awnings.webp) - 1 images
+- [alawnings-slide-03.jpg (1400×620)](https://kimsblinds.com.au/wp-content/uploads/2024/04/alawnings-slide-03.jpg) - 1 images
+- [awning.jpg (1200×800)](https://kimsblinds.com.au/wp-content/uploads/2024/03/awning.jpg) - 1 images
+- [Canvas-Awnings1.jpg (1024×768)](https://kimsblinds.com.au/wp-content/uploads/2024/04/Canvas-Awnings1.jpg) - 1 images
+- [Canvas-Awnings.jpg (1400×630)](https://kimsblinds.com.au/wp-content/uploads/2024/04/Canvas-Awnings.jpg) - 1 images
+- [shot_2_i-internal-w-doors-closed-flyscreen-closed-gap-centre_cropped-scaled.jpg (2560×1314)](https://kimsblinds.com.au/wp-content/uploads/2024/04/shot_2_i-internal-w-doors-closed-flyscreen-closed-gap-centre_cropped-scaled.jpg) - 1 images
+- [fly.jpg (1200×800)](https://kimsblinds.com.au/wp-content/uploads/2024/03/fly.jpg) - 1 images
+- [fly-1.jpg (1200×800)](https://kimsblinds.com.au/wp-content/uploads/2024/03/fly-1.jpg) - 1 images
+- [Security-Doors-10.jpeg (1200×1600)](https://kimsblinds.com.au/wp-content/uploads/2025/04/Security-Doors-10.jpeg) - 1 images
+- [Security-Doors-2.jpeg (1200×1600)](https://kimsblinds.com.au/wp-content/uploads/2025/04/Security-Doors-2.jpeg) - 1 images
+- [Security-Doors-8.jpeg (1200×1600)](https://kimsblinds.com.au/wp-content/uploads/2025/04/Security-Doors-8.jpeg) - 1 images
+- [Security-Doors-16.jpeg (1200×1600)](https://kimsblinds.com.au/wp-content/uploads/2025/04/Security-Doors-16.jpeg) - 1 images
+- [sd.jpg (1200×800)](https://kimsblinds.com.au/wp-content/uploads/2024/03/sd.jpg) - 1 images
+- [door.jpg (1200×800)](https://kimsblinds.com.au/wp-content/uploads/2024/03/door.jpg) - 1 images
+- [Security-Doors-3.jpeg (1200×1600)](https://kimsblinds.com.au/wp-content/uploads/2025/04/Security-Doors-3.jpeg) - 1 images
+- [Security-Doors-7.jpeg (1200×1600)](https://kimsblinds.com.au/wp-content/uploads/2025/04/Security-Doors-7.jpeg) - 1 images
+- [Panel_Glides-2.jpg (1500×1000)](https://kimsblinds.com.au/wp-content/uploads/2024/04/Panel_Glides-2.jpg) - 1 images
+- [skyline-gliding-window-panels-formosa-stormy-gray-105783039.webp (1280×1280)](https://kimsblinds.com.au/wp-content/uploads/2024/04/skyline-gliding-window-panels-formosa-stormy-gray-105783039.webp) - 1 images
+- [Shutters-3.jpeg (1200×1600)](https://kimsblinds.com.au/wp-content/uploads/2025/04/Shutters-3.jpeg) - 1 images
+- [Shutters-9.jpeg (1600×1200)](https://kimsblinds.com.au/wp-content/uploads/2025/04/Shutters-9.jpeg) - 1 images
+- [Venetian-Blinds1-scaled.webp (2560×1440)](https://kimsblinds.com.au/wp-content/uploads/2024/04/Venetian-Blinds1-scaled.webp) - 1 images
+- [venice-hero-Pure-w-Cotton-tapes.jpg (1920×1079)](https://kimsblinds.com.au/wp-content/uploads/2024/04/venice-hero-Pure-w-Cotton-tapes.jpg) - 1 images
+- [blue_couch_shutters_1600.jpg (1600×1066)](https://kimsblinds.com.au/wp-content/uploads/2024/03/blue_couch_shutters_1600.jpg) - 1 images
+- [IMG_2719.jpg (1500×1125)](https://kimsblinds.com.au/wp-content/uploads/2024/03/IMG_2719.jpg) - 1 images
+- [4.jpg (2048×1536)](https://kimsblinds.com.au/wp-content/uploads/2024/03/4.jpg) - 1 images
+- [6.jpg (2048×1536)](https://kimsblinds.com.au/wp-content/uploads/2024/03/6.jpg) - 1 images
+- [kimsblinds-curtains.jpeg (1200×1600)](https://kimsblinds.com.au/wp-content/uploads/2025/06/kimsblinds-curtains.jpeg) - 1 images
+- [A3.png (370×450)](https://kimsblinds.com.au/wp-content/uploads/2024/03/A3.png) - 1 images
+- [A1.png (370×450)](https://kimsblinds.com.au/wp-content/uploads/2024/03/A1.png) - 1 images
+- [EWF-Blinds-scaled-1.jpg (1536×1024)](https://kimsblinds.com.au/wp-content/uploads/2024/03/EWF-Blinds-scaled-1.jpg) - 1 images
+- [ser1.jpg (1200×800)](https://kimsblinds.com.au/wp-content/uploads/2024/03/ser1.jpg) - 1 images
+- [blinds.jpg (1200×800)](https://kimsblinds.com.au/wp-content/uploads/2024/03/blinds.jpg) - 1 images
+- [5.webp (1600×1200)](https://kimsblinds.com.au/wp-content/uploads/2024/03/5.webp) - 1 images
+- [6.webp (1946×1297)](https://kimsblinds.com.au/wp-content/uploads/2024/03/6.webp) - 1 images
+- [Kitchen_shutters_morview_white2_flipped.jpg (2000×1333)](https://kimsblinds.com.au/wp-content/uploads/2024/03/Kitchen_shutters_morview_white2_flipped.jpg) - 1 images
+- [btg-window-blinds-vertical-blinds-scaled.jpg (2560×878)](https://kimsblinds.com.au/wp-content/uploads/2024/03/btg-window-blinds-vertical-blinds-scaled.jpg) - 1 images
+- [btg_vertical-sheer_melody-elegance_light-pewter_1200x800.jpg (1200×800)](https://kimsblinds.com.au/wp-content/uploads/2024/03/btg_vertical-sheer_melody-elegance_light-pewter_1200x800.jpg) - 1 images
+- [btg_vertical-fabric_highlands-stone_1200x800.jpg (1200×800)](https://kimsblinds.com.au/wp-content/uploads/2024/03/btg_vertical-fabric_highlands-stone_1200x800.jpg) - 1 images
+- [btg-specialty-shutters-scaled.jpg (2560×878)](https://kimsblinds.com.au/wp-content/uploads/2024/03/btg-specialty-shutters-scaled.jpg) - 1 images
+- [solar-shades-living-room-signature-series.jpg (1000×750)](https://kimsblinds.com.au/wp-content/uploads/2024/03/solar-shades-living-room-signature-series.jpg) - 1 images
+- [blinds-1.jpg (1200×800)](https://kimsblinds.com.au/wp-content/uploads/2024/03/blinds-1.jpg) - 1 images
+- [vbb.webp (2025×1350)](https://kimsblinds.com.au/wp-content/uploads/2024/04/vbb.webp) - 1 images
+- [v-bb.jpeg (1600×1200)](https://kimsblinds.com.au/wp-content/uploads/2024/04/v-bb.jpeg) - 1 images
+- [alternatives-to-vertical-blinds.png (2180×1448)](https://kimsblinds.com.au/wp-content/uploads/2024/04/alternatives-to-vertical-blinds.png) - 1 images
+- [wooden-blind.jpg (1200×900)](https://kimsblinds.com.au/wp-content/uploads/2024/04/wooden-blind.jpg) - 1 images
+- [light_filter_roller_blinds_living.jpg (1200×801)](https://kimsblinds.com.au/wp-content/uploads/2024/04/light_filter_roller_blinds_living.jpg) - 1 images
+- [20230224_182649-1024x768-1.jpg (1024×768)](https://kimsblinds.com.au/wp-content/uploads/2024/04/20230224_182649-1024x768-1.jpg) - 1 images
+- [Curtain-2.jpeg (1600×1200)](https://kimsblinds.com.au/wp-content/uploads/2025/04/Curtain-2.jpeg) - 1 images

@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /design-system
+Disallow: /components
+Sitemap: https://kimsblinds.com.au/sitemap.xml

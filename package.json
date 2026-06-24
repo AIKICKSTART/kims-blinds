@@ -1,0 +1,29 @@
+{
+  "name": "kims-blinds-website",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node ./node_modules/vite/bin/vite.js --host 127.0.0.1",
+    "build": "npm run generate:seo && npm run generate:webp && node ./node_modules/typescript/bin/tsc && node ./node_modules/vite/bin/vite.js build && npm run generate:static",
+    "generate:seo": "node scripts/generate-seo-files.mjs",
+    "generate:webp": "node scripts/generate-webp.mjs",
+    "generate:static": "node scripts/generate-static-pages.mjs",
+    "preview": "node ./node_modules/vite/bin/vite.js preview --host 127.0.0.1"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "^5.0.0",
+    "lucide-react": "^0.468.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "typescript": "^5.8.0",
+    "vite": "^7.0.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "@types/react": "^19.2.17",
+    "@types/react-dom": "^19.2.3",
+    "sharp": "^0.35.1"
+  }
+}
+
