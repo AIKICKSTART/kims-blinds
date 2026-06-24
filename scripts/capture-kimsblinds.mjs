@@ -11,7 +11,7 @@ const outDir = path.join(root, "contents", "kimsblinds");
 const pageDir = path.join(outDir, "pages");
 const imageDir = path.join(outDir, "images");
 const rawDir = path.join(outDir, "raw");
-const logoReference = "C:/Users/verri/Downloads/ChatGPT Image Jun 23, 2026, 11_28_48 PM.png";
+const logoReference = "C:/Users/verri/Downloads/ChatGPT Image Jun 24, 2026, 11_45_00 AM.png";
 const maxPages = 80;
 
 await fs.mkdir(pageDir, { recursive: true });
