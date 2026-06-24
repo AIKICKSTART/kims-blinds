@@ -4,4 +4,5 @@ dist
 .vercel/.env*.local
 output
 test-results
+public/brand/kims/generated/raw-thread-png
 .git

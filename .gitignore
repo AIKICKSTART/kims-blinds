@@ -7,6 +7,7 @@ dist/
 output/
 test-results/
 qa-screenshots/
+public/brand/kims/generated/raw-thread-png/
 
 *.log
 *.err.log
